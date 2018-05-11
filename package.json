@@ -17,8 +17,7 @@
     "markdown"
   ],
   "dependencies": {
-    "deep-assign": "latest",
-    "mermaid":"latest",
+    "deep-assign": "latest"
   },
   "author": {
     "name": "onew.me",

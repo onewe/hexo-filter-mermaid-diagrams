@@ -1,0 +1,27 @@
+{
+  "name": "hexo-filter-mermaid-diagrams",
+  "version": "1.0.3",
+  "description": "Generate mermaid diagrams for Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onewe/hexo-filter-mermaid-diagrams.git"
+  },
+  "keywords": [
+    "hexo",
+    "filter",
+    "mermaid",
+    "markdown"
+  ],
+  "author": {
+    "name": "onew.me",
+    "email": "admin@onew.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onewe/hexo-filter-mermaid-diagrams/issues"
+  }
+}

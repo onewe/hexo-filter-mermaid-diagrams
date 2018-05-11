@@ -1,4 +1,5 @@
 var assign = require('deep-assign');
+var mermaid = require('mermaid');
 var renderer = require('./lib/renderer');
 
 hexo.config.diagrams = assign({

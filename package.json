@@ -16,6 +16,10 @@
     "mermaid",
     "markdown"
   ],
+  "dependencies": {
+    "deep-assign": "latest",
+    "mermaid":"latest",
+  },
   "author": {
     "name": "onew.me",
     "email": "admin@onew.me"

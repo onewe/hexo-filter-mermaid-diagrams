@@ -1,5 +1,5 @@
 {
-  "name": "hexo-filter-mermaid-diagrams",
+  "name": "hexo-filter-mermaid-diagrams-v",
   "version": "1.0.1",
   "description": "Generate mermaid diagrams for Hexo.",
   "main": "index.js",

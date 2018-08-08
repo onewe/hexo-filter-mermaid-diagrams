@@ -5,9 +5,19 @@ Generate mermaid diagrams for Hexo.
 
 # How to use
 
-- `npm install deep-assign`
-- `git clone https://github.com/onewe/hexo-filter-mermaid-diagrams.git` 
-- copy to hexo node_module folder.
-- add dependencies `hexo-filter-mermaid-diagrams:1.0.1` in hexo package json file
-- enjoy!
+1. `npm i hexo-filter-mermaid-diagrams-v`
+
+2. ```mermaid
+   sequenceDiagram
+   Observable->>Subscriber:A;
+   Subscriber->>Observable:B;
+   Observable->>OnSubscribe:C;
+   OnSubscribe->>Subscriber:D;
+   OnSubscribe->>Subscriber:E;
+   OnSubscribe->>Subscriber:F;
+   OnSubscribe->>Subscriber:G;
+   OnSubscribe->>Subscriber:H;
+   ```
+
+   
 

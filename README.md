@@ -7,7 +7,8 @@ Generate mermaid diagrams for Hexo.
 
 1. `npm i hexo-filter-mermaid-diagrams-v`
 
-2. ```mermaid
+2. ```
+   ​```mermaid
    sequenceDiagram
    Observable->>Subscriber:A;
    Subscriber->>Observable:B;
@@ -17,7 +18,7 @@ Generate mermaid diagrams for Hexo.
    OnSubscribe->>Subscriber:F;
    OnSubscribe->>Subscriber:G;
    OnSubscribe->>Subscriber:H;
+   ​```
    ```
 
-   
-
+3. ![image](./img/result.png)
